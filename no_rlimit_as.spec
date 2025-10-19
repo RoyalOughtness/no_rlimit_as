@@ -1,5 +1,5 @@
 Name:           no_rlimit_as
-Version:        0.1.0
+Version:        0.2.0
 Release:        1
 Summary:        Shared library that can be preloaded to disable setrlimit(RLIMIT_AS).
 
